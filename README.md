@@ -14,7 +14,7 @@ MINI_PROJECT_1_PBW/
     ├── aplikasi.jpg
     ├── foto_profile.jpeg
     ├── insevent.jpg
-    └── upgrading.png
+    └── upgrading.png```
 
 ## 2. Teknologi yang digunakan:
 
