@@ -10,6 +10,7 @@ Sebuah website portofolio pribadi yang dibangun dengan HTML, CSS, Bootstrap 5, d
 - img/ → semua gambar (profil, sertifikat, proyek, dll)
 
 ## 2. Teknologi yang digunakan:
+```plaintext
 MINI_PROJECT_1_PBW/
 │
 ├── index.html
