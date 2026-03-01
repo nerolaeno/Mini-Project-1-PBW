@@ -29,8 +29,8 @@ MINI_PROJECT_1_PBW/
  
  <img width="935" height="494" alt="image" src="https://github.com/user-attachments/assets/ae698828-5ae1-4cdb-82d0-e79e89c54245" />
 
+  - kode:
 ```plaintext
-  kode:
   <section id="home" class="hero">
       <div class="container hero-content">
         <h1>Hello, I’m Lawrend</h1>
@@ -40,4 +40,8 @@ MINI_PROJECT_1_PBW/
       </div>
     </section>
 ```
+Penjelasan Kode:
+Section ini merupakan bagian Home (Hero Section) pada website portofolio yang berfungsi sebagai tampilan pembuka. Di dalam section ini terdapat elemen judul (<h1>) yang menampilkan nama pemilik website serta elemen paragraf (<p>) yang berisi deskripsi singkat atau tagline.
+
+Class hero digunakan untuk memberikan styling khusus pada bagian ini, seperti pengaturan tinggi section, background, dan tampilan visual lainnya. Class container berfungsi untuk membatasi lebar konten agar tetap rapi dan terpusat sesuai standar layout Bootstrap. Sementara itu, class hero-content digunakan untuk pengaturan tambahan seperti perataan teks dan spasi antar elemen.
 
