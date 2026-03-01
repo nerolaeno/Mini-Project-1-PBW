@@ -5,7 +5,7 @@ Sebuah website portofolio pribadi yang dibangun dengan HTML, CSS, Bootstrap 5, d
 
 ## 1. Struktur File
 
-```plaintext```
+```plaintext
 MINI_PROJECT_1_PBW/
 │
 ├── index.html
@@ -15,6 +15,7 @@ MINI_PROJECT_1_PBW/
     ├── foto_profile.jpeg
     ├── insevent.jpg
     └── upgrading.png
+plaintext```
 
 ## 2. Teknologi yang digunakan:
 
