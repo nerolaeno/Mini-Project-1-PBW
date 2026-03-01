@@ -1,7 +1,7 @@
 # 💻 Portofolio Website Alvionej Resna Lawrend Pandiangan | 2409116073
 
 ## 📝Deskripsi
-Sebuah website portofolio pribadi yang dibangun dengan HTML, CSS, Bootstrap 5, dan Vue JS untuk menyajikan informasi profil, keahlian, pengalaman, dan sertifikat secara responsif dan informatif.
+Sebuah website portofolio pribadi yang dibangun dengan HTML, CSS, Bootstrap, dan Vue JS untuk menyajikan informasi profil, keahlian, pengalaman, dan sertifikat secara responsif dan informatif.
 
 ## 📁1. Struktur Project
 
