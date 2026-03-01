@@ -41,7 +41,12 @@ MINI_PROJECT_1_PBW/
     </section>
 ```
 Penjelasan Kode:
-Section ini merupakan bagian Home (Hero Section) pada website portofolio yang berfungsi sebagai tampilan pembuka. Di dalam section ini terdapat elemen judul (<h1>) yang menampilkan nama pemilik website serta elemen  paragraf (<p>) yang berisi deskripsi singkat atau tagline.Class hero digunakan untuk memberikan styling khusus pada bagian ini, seperti pengaturan tinggi section, background, dan tampilan visual lainnya. Class container berfungsi untuk membatasi lebar konten agar tetap rapi dan terpusat sesuai standar layout Bootstrap. Sementara itu, class hero-content digunakan untuk pengaturan tambahan seperti perataan teks dan spasi antar elemen.
+k
+j
+k
+k
+k
+k
 
-alvionej vndknvenvkwsf
+
 
